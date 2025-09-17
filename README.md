@@ -27,7 +27,7 @@ I'm a passionate **Mobile App Developer** who loves building applications, learn
 ## 📊 GitHub Stats
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadKhteeb13&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhteeb13&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmadKhteeb13&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadKhteeb13&theme=radical)
 
 ---
 
